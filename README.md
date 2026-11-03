@@ -1,164 +1,136 @@
-<div align="center">
-
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+Real-World+Web+Apps+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js;Clean+Code+%7C+Scalable+Systems;MERN+Stack+Developer+in+Progress+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r_d_rohit_dhakad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krohit41122@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123rohitkumarr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23F5A623.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=123rohitkumarr&style=for-the-badge&color=F5A623&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```javascript
-const rohit = {
-  name:       "Rohit Kumar",
-  role:       "Full-Stack Developer ",
-  location:   "India 🇮🇳",
-  learning:   ["React", "Node.js", "MongoDB", "Next.js"],
-  goals:      "Build scalable, real-world web products",
-  funFact:    "I debug code faster with lo-fi music 🎵",
-  available:  true   // Open to opportunities!
-};
-```
-
-<br/>
-
-- 🔥 Passionate about turning **ideas into functional products**
-- 🌱 Currently deep-diving into **MERN Stack development**
-- 💡 I love writing **clean, structured, and readable code**
-- 🛠️ Always working on something new — check my repos below!
-- 💬 Ask me about **JavaScript, React, HTML/CSS**
-- 📫 Reach me at **krohit41122@gmail.com**
-- ⚡ Fun fact: I built my first project before finishing my first course
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|--------|-------------|------------|--------|
-| 🧮 **Calculator App** | Clean UI with fully functional logic & responsive design | HTML, CSS, JS | ✅ Live |
-| 📱 **Jio Clone** | Pixel-perfect responsive front-end replica of Jio's website | HTML, CSS, JS | ✅ Live |
-| ⛳ **Golf Charity Platform** | Community-driven social initiative web app | HTML, CSS, JS | ✅ Live |
-| 📊 **Trade Empire** | Interactive JS-based trading simulation with real-time logic | JavaScript | ✅ Live |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Rohit%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Student&descSize=17&descAlignY=58" width="100%" alt="Rohit Kumar banner"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<!-- TYPING ANIMATION (all lines are from my resume) -->
+<p align="center">
+  <a href="https://github.com/123rohitkumarr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Data+Science+%26+Machine+Learning+with+Python;350%2B+DSA+Problems+Solved+in+C%2B%2B;Open+to+Off-Campus+Opportunities" alt="Typing animation"/>
+  </a>
 </p>
 
-### 🗄️ Databases & Cloud
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<p align="center">
+  B.Tech Data Science, Swami Keshvanand Institute of Technology, Jaipur (2023–2027)
 </p>
 
-### 🔧 Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-dhakad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:krohit41122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/r_d_rohit_dhakad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/b231548v"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## About
 
-<div align="center">
+I build full-stack web applications (React.js, Node.js, MongoDB) and end-to-end machine learning pipelines (Python, Pandas, Scikit-learn). I have done two internships, one in Data Science at Celebal Technologies and one in Web Development at Kistechno Software.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123rohitkumarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=FFFFFF&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=123rohitkumarr&theme=tokyonight&hide_border=true&background=0D1117&stroke=F5A623&ring=F5A623&fire=FF6B6B&currStreakLabel=F5A623" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123rohitkumarr&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=FFFFFF" />
-
-</div>
+I also practise problem solving regularly: 350+ DSA problems solved in C++ on LeetCode and GeeksforGeeks.
 
 ---
 
-## 📈 Contribution Activity
+## Featured Projects
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=123rohitkumarr&bg_color=0D1117&color=F5A623&line=F5A623&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
+### TradeEmpire: Trading Journal and Analytics Platform
+*March – April 2026*
+
+A full-stack app for traders to log trades and review their performance.
+
+- Secure multi-user access with JWT and OTP authentication (Brevo SMTP), with data stored in MongoDB Atlas.
+- Interactive dashboard showing P&L, win rate, risk:reward and other trading metrics, built with Recharts.
+- AI-generated trade insights using the Groq LLaMA API.
+- Deployed on Vercel and Render with secure environment variable management.
+
+**Stack:** React.js · Node.js · MongoDB · JWT · Groq LLaMA API · Recharts · Brevo SMTP · Vercel · Render
+
+[Live demo](https://trade-empire-omega.vercel.app) · <!-- TODO: replace with the exact TradeEmpire repo link -->[Source code](https://github.com/123rohitkumarr?tab=repositories)
+
+### Estate Forecast: House Price Prediction System
+*June – August 2025*
+
+An end-to-end machine learning pipeline that predicts house prices.
+
+- Linear Regression model trained on 500+ real estate records using Scikit-learn.
+- Feature engineering, data preprocessing and cross-validation to improve reliability.
+- Feature analysis that identified 3 major price drivers.
+
+**Stack:** Python · NumPy · Pandas · Matplotlib · Scikit-learn
+
+<!-- TODO: replace with the exact Estate Forecast repo link -->
+[Source code](https://github.com/123rohitkumarr?tab=repositories)
+
+### Jio Website Clone: Responsive UI Replication
+*June – July 2024*
+
+A front-end replica of the Jio website, built during my web development internship.
+
+- 10+ core sections (plans, offers, navigation) with responsive layouts checked on mobile, tablet and desktop.
+- Reusable CSS components that cut redundant code by about 30%.
+
+**Stack:** HTML · CSS · Bootstrap
+
+[Source code](https://github.com/123rohitkumarr/jio-clone)
+
+### In Progress: Health Chatbot for Hadoti and Marwari
+A team R&D project (3 members, I am the team leader) to build a voice-enabled chatbot that understands symptoms described in two regional dialects of Rajasthan and predicts possible conditions. Data collection, cleaning, transcription and NLP symptom extraction are complete. Disease prediction and the chatbot are the next stages.
+
+**Stack:** Python · Whisper · Transformers · Scikit-learn · React.js
+
+[Source code](https://github.com/123rohitkumarr/SKIT-DS-B-2023-2027-CSE-DS-028)
+
+---
+
+## Experience
+
+**Celebal Excellence Intern, Data Science** · Celebal Technologies · Remote · May – July 2026
+- Selected for the Celebal Excellence Internship (CEI) program.
+- Built regression, classification and clustering models on real-world business datasets using Python, Pandas and Scikit-learn.
+
+**Web Developer Intern** · Kistechno Software · Jaipur · June – July 2024
+- Trained in front-end development with HTML, CSS and Bootstrap.
+- Built 10+ responsive page sections inspired by the Jio website, with a consistent layout on mobile, tablet and desktop.
+
+---
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) |
+| **Full-Stack** | ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+**Core subjects:** Data Structures and Algorithms, OOPs, DBMS, Operating Systems
+
+---
+
+## Education
+
+**B.Tech in Data Science**, Swami Keshvanand Institute of Technology, Jaipur · 2023–2027 · CGPA 7.87
+
+---
+
+## Problem Solving
+
+- **LeetCode:** 250+ problems solved · [profile](https://leetcode.com/u/r_d_rohit_dhakad/)
+- **GeeksforGeeks:** 150+ problems solved · [profile](https://www.geeksforgeeks.org/profile/b231548v)
+- **Codolio:** [activity across platforms](https://codolio.com/profile/Rohit_Dhakad)
 
 ---
 
 
+## Contact
 
-## 🌐 Connect With Me
+I am looking for off-campus opportunities where I can build real products and grow with a strong team.
 
-<div align="center">
+- Email: [krohit41122@gmail.com](mailto:krohit41122@gmail.com)
+- LinkedIn: [linkedin.com/in/rohit-dhakad](https://www.linkedin.com/in/rohit-dhakad)
+- GitHub: [123rohitkumarr](https://github.com/123rohitkumarr)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20%40r__d__rohit__dhakad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r_d_rohit_dhakad)
-[![Gmail](https://img.shields.io/badge/Email-krohit41122%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krohit41122@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-
-<br/>
-
-> 💬 *"I'm always open to collaborating on interesting projects, learning together, or just a good tech chat!"*
-
-</div>
-
----
-
-
-<div align="center">
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-### ⭐ *"Code. Build. Learn. Improve. Repeat."*
-
-**If you like my work, consider giving a ⭐ to my repos — it means a lot!**
-
-</div>
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
+</p>
